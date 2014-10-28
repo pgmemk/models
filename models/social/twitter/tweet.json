@@ -1,0 +1,10 @@
+{
+	"_type": "base.Type",
+	"_typeHash": "D1vMon4DFeRArUnhVL7Kwf3SS8tVeaG4ATNKTzz3aExd",
+	"type": "social.twitter.Tweet",
+	"properties": {
+		"from": {},
+		"to": {},
+		"message": {}
+	}
+}

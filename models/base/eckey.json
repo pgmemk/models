@@ -1,0 +1,13 @@
+{
+	"_type": "base.Type",
+	"type": "base.ECKey",
+	"properties": {
+		"private_key": {
+			"range": "biginteger"
+		},
+		"public_key": {
+			"required": true,
+			"range": "base.ECPubKey"
+		}
+	}
+}

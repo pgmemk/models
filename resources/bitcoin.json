@@ -1,0 +1,6 @@
+{
+	"_type": "base.currency.Currency",
+	"name": "Bitcoin",
+	"code": "BTC",
+	"baseUnit": 0.00000001
+}

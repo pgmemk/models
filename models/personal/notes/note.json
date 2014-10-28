@@ -1,0 +1,15 @@
+{
+	"_type": "base.Type",
+	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
+	"type": "personal.notes.Note",
+	"properties": {
+		"notetaker": {
+			"range": "personal.notes.Person"
+		},
+		"subject": {},
+		"body": {},
+		"date": {
+			"range": "date"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"_context": "CoffeeShop",
+	"_type": "Type",
+	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
+	"context": "CoffeeShop",
+	"type": "Order",
+	"properties": {
+		"buyer": {
+			"range": "base.Entity"
+		},
+		"seller": {
+			"range": "base.Entity"
+		},
+		"item": {},
+		"units": {},
+		"total": {
+			"range": "base.currency.Money"
+		},
+		"date": {
+			"range": "date"
+		},
+		"accepted": {}
+	}
+}

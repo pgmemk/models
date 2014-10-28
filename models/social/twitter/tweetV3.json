@@ -1,0 +1,15 @@
+{
+	"_type": "base.Type",
+	"_previousHash": "HFiwPip3wTENJTNKc6fnqRNTNyqK7C1mSER4AQrHRkv1",
+	"_originalHash": "2vHaj3AwLbgqL7NrnpAVtj9NMwfkU6YGDJKgndUF3MHy",
+	"type": "social.twitter.Tweet",
+	"properties": {
+		"from": {},
+		"to": {},
+		"message": {},
+		"image": {
+			"range": "base.Image"
+		},
+		"hashtags": {}
+	}
+}

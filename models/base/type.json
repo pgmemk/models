@@ -1,0 +1,10 @@
+{
+	"_type": "base.Type",
+	"type": "base.Type",
+	"properties": {
+		"type": {},
+		"typeHash": {},
+		"previousHash": {},
+		"originalHash": {}
+	}
+}

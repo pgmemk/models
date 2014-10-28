@@ -1,0 +1,6 @@
+{
+	"_type": "base.currency.Currency",
+	"name": "Dollar",
+	"code": "USD",
+	"baseUnit": 1
+}

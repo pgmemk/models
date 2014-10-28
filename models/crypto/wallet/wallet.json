@@ -1,0 +1,13 @@
+{
+	"_type": "base.Type",
+	"type": "crypto.wallet.Wallet",
+	"properties": {
+		"owner": {
+			"range": "base.Entity"
+		},
+		"keys": {
+			"range": "base.ECKey",
+			"backLink": "wallet"
+		}
+	}
+}

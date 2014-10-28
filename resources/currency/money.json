@@ -1,0 +1,12 @@
+{
+	"_type": "base.Type",
+	"type": "base.currency.Money",
+	"properties": {
+		"currency": {
+			"range": "base.currency.Currency"
+		},
+		"value": {
+			"range": "bigdecimal"
+		}
+	}
+}

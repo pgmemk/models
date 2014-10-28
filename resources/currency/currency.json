@@ -1,0 +1,11 @@
+{
+	"_type": "base.Type",
+	"type": "base.currency.Currency",
+	"properties": {
+		"name": {},
+		"code": {},
+		"baseUnit": {
+			"range": "decimal"
+		}
+	}
+}

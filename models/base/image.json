@@ -1,0 +1,7 @@
+{
+	"_type": "base.Type",
+	"type": "base.Image",
+	"properties": {
+		"url": {}
+	}
+}

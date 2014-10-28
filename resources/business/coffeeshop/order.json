@@ -1,0 +1,13 @@
+{
+	"_type": "business.coffeeshop.Order",
+	"_typeVersionHash": "....insert order type version hash....",
+	"buyer": "....hash of entity object....",
+	"seller": "....hash of entity object....",
+	"item": "....hash of inventoryItem object....",
+	"units": 100,
+	"total": {
+		"currency": "....hash of Bitcoin currency object....",
+		"value": "100000000" // 1 bitcoin
+	},
+	"date": 141437553970
+}

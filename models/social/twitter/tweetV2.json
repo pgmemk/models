@@ -1,0 +1,13 @@
+{
+	"_type": "base.Type",
+	"_previousHash": "2vHaj3AwLbgqL7NrnpAVtj9NMwfkU6YGDJKgndUF3MHy",
+	"type": "social.twitter.Tweet",
+	"properties": {
+		"from": {},
+		"to": {},
+		"message": {},
+		"image": {
+			"range": "base.Image"
+		}
+	}
+}
