@@ -1,14 +1,16 @@
 {
 	"_type": "base.Type",
-	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
+	"_type_version": "D1vMon4DFeRArUnhVL7Kwf3SS8tVeaG4ATNKTzz3aExd",
 	"type": "business.coffeeshop.InventoryItem",
 	"properties": {
 		"name": {},
 		"pricePerUnit": {
-			"range": "base.currency.Money"
+			"range": "base.currency.Money",
+			"version": "..."
 		},
 		"inventory": {
-			"range": "business.coffeeshop.Inventory"
+			"range": "business.coffeeshop.Inventory",
+			"version": "..."
 		}
 	}
 }

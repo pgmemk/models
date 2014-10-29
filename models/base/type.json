@@ -3,8 +3,8 @@
 	"type": "base.Type",
 	"properties": {
 		"type": {},
-		"typeHash": {},
-		"previousHash": {},
-		"originalHash": {}
+		"type_version": {},
+		"previous_version": {},
+		"original_version": {}
 	}
 }

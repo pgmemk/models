@@ -1,0 +1,8 @@
+{
+	"type": "business.common.Receipt",
+	"properties": {
+		"buyer": {},
+		"seller": {},
+		"for": {}
+	}
+}

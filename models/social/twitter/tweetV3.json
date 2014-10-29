@@ -1,14 +1,23 @@
 {
 	"_type": "base.Type",
-	"_previousHash": "HFiwPip3wTENJTNKc6fnqRNTNyqK7C1mSER4AQrHRkv1",
-	"_originalHash": "2vHaj3AwLbgqL7NrnpAVtj9NMwfkU6YGDJKgndUF3MHy",
+	"_previous_version": "HFiwPip3wTENJTNKc6fnqRNTNyqK7C1mSER4AQrHRkv1",
+	"_original_version": "2vHaj3AwLbgqL7NrnpAVtj9NMwfkU6YGDJKgndUF3MHy",
 	"type": "social.twitter.Tweet",
 	"properties": {
-		"from": {},
-		"to": {},
-		"message": {},
+		"from": {
+			"range": "social.twitter.Person",
+			"version": "..."
+		},
+		"to": {
+			"range": "social.twitter.Person",
+			"version": "..."
+		},
+		"message": {
+			"max_length": 140
+		},
 		"image": {
-			"range": "base.Image"
+			"range": "base.Image",
+			"version": "..."
 		},
 		"hashtags": {}
 	}

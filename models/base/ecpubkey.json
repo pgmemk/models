@@ -1,8 +1,0 @@
-{
-	"_type": "base.Type",
-	"type": "base.ECPubKey",
-	"properties": {
-		"x": {},
-		"y": {}
-	}
-}

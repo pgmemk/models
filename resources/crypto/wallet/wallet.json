@@ -1,10 +1,4 @@
 {
-	"_type": "base.Type",
-	"type": "crypto.wallet.Wallet",
-	"properties": {
-		"keys": {
-			"range": "base.ECKey",
-			"backLink": "wallet"
-		}
-	}
+	"_type": "crypto.wallet.Wallet",
+	"name": "Candy Funds"
 }

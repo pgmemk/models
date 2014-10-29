@@ -3,7 +3,8 @@
 	"type": "base.currency.Money",
 	"properties": {
 		"currency": {
-			"range": "base.currency.Currency"
+			"range": "base.currency.Currency",
+			"version": "..."
 		},
 		"value": {
 			"range": "bigdecimal"

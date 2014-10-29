@@ -1,0 +1,7 @@
+{
+	"_type": "business.common.Receipt",
+	"_type_version": "...",
+	"buyer": "Joey",
+	"seller": "Bobby",
+	"for": "you know, stuff"
+}

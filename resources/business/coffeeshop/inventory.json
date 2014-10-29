@@ -1,5 +1,5 @@
 {
 	"_type": "business.coffeeshop.Inventory",
-	"_typeVersionHash": "........insert hash for version of type.....",
+	"_type_version": "...",
 	"owner": "....insert coffeeshop hash...."
 }

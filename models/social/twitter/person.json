@@ -1,10 +1,11 @@
 {
 	"_type": "base.Type",
-	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
+	"_type_version": "D1vMon4DFeRArUnhVL7Kwf3SS8tVeaG4ATNKTzz3aExd",
 	"type": "social.twitter.Person",
 	"properties": {
 		"public_key": {
-			"range": "base.ECPubKey"
+			"range": "base.ECPubKey",
+			"version": "...",
 		},
 		"first_name": {},
 		"last_name": {},

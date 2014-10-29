@@ -1,0 +1,15 @@
+{
+	"_previous_version": "HaFT2XsPw3qeGqiY4gnL6t2m1Mdsn7UUAN4DhgjFVSbm",
+	"type": "business.common.PseudonymousReceipt",
+	"properties": {
+		"buyer": {
+			"range": "base.BitcoinAddress",
+			"version": "..."
+		},
+		"seller": {
+			"range": "base.BitcoinAddress",
+			"version": "..."
+		},
+		"for": {}
+	}
+}

@@ -1,11 +1,13 @@
 {
 	"_type": "base.Type",
-	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
+	"_type_version": "D1vMon4DFeRArUnhVL7Kwf3SS8tVeaG4ATNKTzz3aExd",
 	"type": "business.coffeeshop.Inventory",
 	"properties": {
 		"owner": {},
 		"items": {
-			"backLink": "inventory"
+			"backLink": "inventory",
+			"range": "business.coffeeshop.InventoryItem",
+			"version": "..."
 		}
 	}
 }

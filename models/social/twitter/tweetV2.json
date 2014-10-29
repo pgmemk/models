@@ -1,13 +1,22 @@
 {
 	"_type": "base.Type",
-	"_previousHash": "2vHaj3AwLbgqL7NrnpAVtj9NMwfkU6YGDJKgndUF3MHy",
+	"_previous_version": "2vHaj3AwLbgqL7NrnpAVtj9NMwfkU6YGDJKgndUF3MHy",
 	"type": "social.twitter.Tweet",
 	"properties": {
-		"from": {},
-		"to": {},
-		"message": {},
+		"from": {
+			"range": "social.twitter.Person",
+			"version": "..."
+		},
+		"to": {
+			"range": "social.twitter.Person",
+			"version": "..."
+		},
+		"message": {
+			"max_length": 140
+		},
 		"image": {
-			"range": "base.Image"
+			"range": "base.Image",
+			"version": "..."
 		}
 	}
 }

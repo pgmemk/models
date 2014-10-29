@@ -1,10 +1,7 @@
 {
-	"_type": "base.Type",
-	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
-	"type": "social.twitter.Tweet",
-	"properties": {
-		"from": {},
-		"to": {},
-		"message": {}
-	}
+	"_type": "social.twitter.Tweet",
+	"_type_version": "...insert hash of Tweet type...",
+	"from": "lawyers",
+	"to": "tradle",
+	"message": "you're putting us out of business!"
 }

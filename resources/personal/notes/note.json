@@ -1,15 +1,8 @@
 {
-	"_type": "base.Type",
-	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
-	"type": "personal.notes.Note",
-	"properties": {
-		"notetaker": {
-			"range": "personal.notes.Person"
-		},
-		"subject": {},
-		"body": {},
-		"date": {
-			"range": "date"
-		}
-	}
+	"_type": "personal.notes.Note",
+	"_type_version": "...insert hash of Note type...",
+	"notetaker": "...insert hash of notetaker...",
+	"subject": "The weather is boring",
+	"body": "That's all I have to say",
+	"date": 141437553970
 }

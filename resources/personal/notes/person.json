@@ -1,16 +1,7 @@
 {
-	"_type": "base.Type",
-	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
-	"type": "personal.notes.Person",
-	"properties": {
-		"public_key": {
-			"range": "base.ECPubKey"
-		},
-		"first_name": {},
-		"last_name": {},
-		"notes": {
-			"backLink": "notetaker",
-			"range": "personal.notes.Note"
-		}
-	}
+	"_type": "personal.notes.Person",
+	"_type_version": "...insert hash of Person type...",
+	"public_key": "...insert hash of Katinka's public key...",
+	"first_name": "Katinka",
+	"last_name": "Ingabogovinanana"
 }

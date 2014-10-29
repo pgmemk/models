@@ -1,0 +1,11 @@
+{
+	"_type": "base.Type",
+	"_type_version": "D1vMon4DFeRArUnhVL7Kwf3SS8tVeaG4ATNKTzz3aExd",
+	"type": "base.ECPublicKey",
+	"properties": {
+		"x": {
+			"required": true
+		},
+		"y": {}
+	}
+}

@@ -1,5 +1,11 @@
 {
 	"_type": "base.Type",
+	"_type_version": "D1vMon4DFeRArUnhVL7Kwf3SS8tVeaG4ATNKTzz3aExd",
 	"type": "base.Entity",
-	"properties": {}
+	"properties": {
+		"public_key": {
+			"range": "base.ECPublicKey",
+			"version": "...ECPublicKey version hash..."
+		}
+	}
 }

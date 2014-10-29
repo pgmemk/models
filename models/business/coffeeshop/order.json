@@ -1,24 +1,33 @@
 {
-	"_context": "CoffeeShop",
-	"_type": "Type",
-	"_typeVersionHash": "HSaeSqTpe2S9ZuSJWUBBucsfp6BX4JzFdZDiiCxUfjuD",
-	"context": "CoffeeShop",
-	"type": "Order",
+	"_type": "base.Type",
+	"_type_version": "D1vMon4DFeRArUnhVL7Kwf3SS8tVeaG4ATNKTzz3aExd",
+	"type": "business.coffeeshop.Order",
 	"properties": {
 		"buyer": {
-			"range": "base.Entity"
+			"range": "base.Entity",
+			"version": "..."
 		},
 		"seller": {
-			"range": "base.Entity"
+			"range": "base.Entity",
+			"version": "..."
 		},
-		"item": {},
-		"units": {},
+		"item": {
+			"range": "business.coffeeshop.InventoryItem",
+			"version": "..."
+		},
+		"units": {
+			"range": "bigdecimal"
+		},
 		"total": {
-			"range": "base.currency.Money"
+			"range": "base.currency.Money",
+			"version": "..."
 		},
 		"date": {
-			"range": "date"
+			"range": "long",
+			"version": "..."
 		},
-		"accepted": {}
+		"accepted": {
+			"range": "boolean"
+		}
 	}
 }
