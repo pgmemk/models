@@ -1,8 +1,8 @@
 {
 	"_type": "business.common.PointyReceipt",
-	"_type_version": "...",
-	"buyer": "...hash of buyer entity...",
-	"seller": "..hash of seller entity...",
+	"_type_version": "HLEmy3udN1HJYTWVesCtAjwT1fVj45BghES7KvZznwMs",
+	"buyer": "...hash of buyer entity resource...",
+	"seller": "..hash of seller entity resource...",
 	"for": "even better stuff than last time, don't worry",
 	"date": 141437553970
 }
