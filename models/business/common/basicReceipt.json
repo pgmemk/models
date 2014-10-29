@@ -3,6 +3,7 @@
 	"properties": {
 		"buyer": {},
 		"seller": {},
-		"for": {}
+		"for": {},
+		"date": {}
 	}
 }

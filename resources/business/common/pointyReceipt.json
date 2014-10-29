@@ -3,5 +3,6 @@
 	"_type_version": "...",
 	"buyer": "...hash of buyer entity...",
 	"seller": "..hash of seller entity...",
-	"for": "even better stuff than last time, don't worry"
+	"for": "even better stuff than last time, don't worry",
+	"date": 141437553970
 }

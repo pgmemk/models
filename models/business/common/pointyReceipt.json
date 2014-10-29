@@ -10,6 +10,9 @@
 			"range": "base.Entity",
 			"version": "..."
 		},
-		"for": {}
+		"for": {},
+		"date": {
+			"range": "long"
+		}
 	}
 }
