@@ -11,6 +11,10 @@
 			"version": "..."
 		},
 		"for": {},
+		"total": {
+			"range": "base.currency.Money",
+			"version": "..."
+		},
 		"date": {
 			"range": "long"
 		}
