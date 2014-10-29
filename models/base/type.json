@@ -4,6 +4,7 @@
 	"properties": {
 		"type": {},
 		"type_version": {},
+		"mixins": {},
 		"previous_version": {},
 		"original_version": {}
 	}
