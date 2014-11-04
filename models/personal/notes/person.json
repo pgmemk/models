@@ -1,6 +1,4 @@
 {
-	"_type": "base.Type",
-	"_type_version": "D1vMon4DFeRArUnhVL7Kwf3SS8tVeaG4ATNKTzz3aExd",
 	"type": "personal.notes.Person",
 	"properties": {
 		"public_key": {
