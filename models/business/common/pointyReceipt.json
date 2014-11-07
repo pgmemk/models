@@ -16,7 +16,7 @@
 			"version": "..."
 		},
 		"date": {
-			"range": "long"
+			"range": "date"
 		}
 	}
 }
