@@ -2,7 +2,7 @@
 	"type": "personal.notes.Person",
 	"properties": {
 		"public_key": {
-			"range": "base.ECPubKey"
+			"range": "base.ECPublicKey"
 		},
 		"first_name": {},
 		"last_name": {},
